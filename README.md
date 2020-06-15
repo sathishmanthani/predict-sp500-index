@@ -1,8 +1,8 @@
 # PredictSP500Index
  Predicting S&P 500 Index price using ML  
-Author: Sathish Manthani  
+**Author: Sathish Manthani  
 Date: 5/25/2020  
-Course: Predictive Analytics  
+Course: Predictive Analytics**  
 
 ![Image of Stocks](https://moneyandmarkets.com/wp-content/uploads/2018/09/Stock-Market-Update-stocks4.jpg)
 
