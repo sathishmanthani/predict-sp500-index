@@ -11,4 +11,4 @@ In this project, I built models to predict the stock prices for it based on the 
 I used machine learning algorithms like Decision trees, Random forests, Gradient boosting, Neural networks, and Facebook’s prophet in this project.  
 
 You can also watch presentation of the project here:  
-![Video of Stocks](https://www.youtube.com/watch?v=FbXZfYbJZRE) 
+**https://www.youtube.com/watch?v=FbXZfYbJZRE**
