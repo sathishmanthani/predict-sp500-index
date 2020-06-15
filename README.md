@@ -4,8 +4,8 @@
 Date: 5/25/2020  
 Course: Predictive Analytics**  
 
-/*![Image of Stocks](https://moneyandmarkets.com/wp-content/uploads/2018/09/Stock-Market-Update-stocks4.jpg)*/
-https://www.portfoliowealthglobal.com/wp-content/uploads/2017/12/banner-bg-stocks.jpg
+![Image of Stocks](https://www.portfoliowealthglobal.com/wp-content/uploads/2017/12/banner-bg-stocks.jpg)
+
 
 S&P 500 (Standard and Poor 500) is the stock market index that measures the stock performance of 500 large companies in the US.   
 In this project, I built models to predict the stock prices for it based on the available variables and historical data.  
